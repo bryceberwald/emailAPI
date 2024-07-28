@@ -50,5 +50,3 @@ var emailRouter = require('./routes/email');
 app.use('/', indexRouter);
 app.use('/email', emailRouter);
 ```
-
-## More documentation coming soon...
